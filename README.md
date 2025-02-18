@@ -4,10 +4,9 @@ This project demonstrates how to use **Apache Kafka** for handling real-time **f
 
 ## Prerequisites
 
-Ensure you have the following installed:
-- **Node.js** (Intermediate level)
-- **Docker** (For running Kafka & Zookeeper)
-- **VSCode** (Optional, for development)
+- **Node.js** 
+- **Docker** 
+- **VSCode** 
 
 ## Project Structure
 ```markdown
