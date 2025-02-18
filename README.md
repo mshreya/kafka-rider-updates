@@ -11,7 +11,7 @@ Ensure you have the following installed:
 
 ## Project Structure
 ```markdown
-food-delivery-updates/
+kafka-rider-updates/
 │── docker-compose.yml  # Kafka & Zookeeper setup
 │── package.json        # Node.js dependencies
 │── client.js           # Kafka client configuration
