@@ -90,25 +90,16 @@ partner1: [food-orders] PART:1 -> {"orderId":"12345","status":"dispatched"}
 partner2: [food-orders] PART:0 -> {"orderId":"67890","status":"delivered"}
 ```
 
----
-
-
 
 ---
 
-## ✅ Summary
+## Summary
 - **Producer (restaurant)** sends order updates to Kafka.
 - **Consumers (delivery partners)** receive updates based on partitioning.
 - **Kafka UI** allows monitoring in real-time.
 
 This project demonstrates a **real-time food order tracking system** using **Kafka & Node.js**. 
 
----
-
-## 💡 Possible Enhancements
-- Add a **database (MongoDB/PostgreSQL)** to store order history.
-- Implement a **frontend (React/Vue)** to display real-time updates.
-- Scale consumers dynamically based on demand.
 
 ---
 
